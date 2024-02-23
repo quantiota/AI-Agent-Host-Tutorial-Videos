@@ -28,6 +28,8 @@ In this tutorial, we'll dive deeper into the AI Agent Host, a powerful platform 
 We will guide you through starting with the AI Agent Lab, highlighting its capabilities and the integration of the AI Agent with the foundational services such as Code Server, QuestDB, and Grafana, all provided by the AI Agent Host. You'll learn how to utilize these integrated tools and technologies to develop, deploy, and manage sophisticated AI agents capable of complex tasks and analyses.
 
 
+- **Video 4**  Using the AI Agent Farm
+
 
 **Availability as a Free Course**
 
