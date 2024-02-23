@@ -8,13 +8,13 @@ In this introductory video, we'll provide an overview of our comprehensive proje
 
 
   1. **AI Agent Host**: This is the primary platform where AI agent is hosted and executed. It serves as the foundation for running AI-based applications and services, providing the necessary infrastructure and environment for development, deployment, and management.
-  2. 
+   
 
   3. **AI Agent Lab**: This is an environment built on top of the AI Agent Host, specifically tailored for experimentation, testing, and research purposes. It allows developers and researchers to create and deploy AI agents in a sandboxed environment, enabling rapid iteration and exploration of different models and algorithms.
-  4. 
+   
 
   5. **AI Agent Farm**: This refers to a distributed system or network of AI Agent Host instances, typically used for scaling AI workloads and accommodating larger computational tasks. The AI Agent Farm allows for parallel execution of AI agents across multiple nodes, increasing throughput and efficiency.
-  6. 
+   
 
 - **Video 2**: Installing and Using the AI Agent Host
 
