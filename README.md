@@ -13,7 +13,7 @@ In this introductory video, we'll provide an overview of our comprehensive proje
   3. **AI Agent Lab**: This is an environment built on top of the AI Agent Host, specifically tailored for experimentation, testing, and research purposes. It allows developers and researchers to create and deploy AI agents in a sandboxed environment, enabling rapid iteration and exploration of different models and algorithms.
    
 
-  5. **AI Agent Farm**: This refers to a distributed system or network of AI Agent Host instances, typically used for scaling AI workloads and accommodating larger computational tasks. The AI Agent Farm allows for parallel execution of AI agents across multiple nodes, increasing throughput and efficiency.
+  5. **AI Agent Farm**: This refers to a distributed system or network of AI Agent Lab instances, typically used for scaling AI workloads and accommodating larger computational tasks. The AI Agent Farm allows for parallel execution of AI agents across multiple nodes, increasing throughput and efficiency.
    
 
 - **Video 2**: Installing and Using the AI Agent Host
