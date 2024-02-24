@@ -10,8 +10,8 @@
      - Nginx 
   
    - Remote connection
-     - JupyterHub   API Token
-     - Dedicated GPU
+     - JupyterHub : Python, Julia, R.   API Token
+     - Dedicated GPU  Tesla K80, P100, V100
 
  - AI Agent Lab   **1T/5** Flexible
    - Environment
@@ -29,8 +29,8 @@
      - Grafana  -> QuestDB  Native
  
    - Remote connection
-     - JupyterHub  API Token
-     - Dedicated GPU
+     - JupyterHub : Python, Julia, R.   API Token
+     - Dedicated GPU   Tesla K80, P100, V100
 
  - AI Agent Farm  **2T/5**  Flexible
    - Distributed AI Computing
