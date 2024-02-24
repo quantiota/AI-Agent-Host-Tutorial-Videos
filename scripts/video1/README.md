@@ -4,10 +4,10 @@
 
  - AI Agent Host  2T/5
   - Environment
-   - VSCode
-   - QuestDB
-   - Grafana
-   - Nginx 
+    - VSCode
+    - QuestDB
+    - Grafana
+    - Nginx 
   
   - connection
     - JupyterHub
@@ -17,7 +17,7 @@
    - AI Agent 
 
  - AI Agent Farm  2T/5
-  - Distributed AI Computing
+   - Distributed AI Computing
 
 
 ## Images
