@@ -2,7 +2,7 @@
 
  ## Time duration T
 
- - AI Agent Host  2T/5
+ - AI Agent Host  **2T/5** Flexible
    - Environment
      - VSCode
      - QuestDB
@@ -13,7 +13,7 @@
      - JupyterHub   API Token
      - Dedicated GPU
 
- - AI Agent Lab   1T/5
+ - AI Agent Lab   **1T/5** Flexible
    - Environment
      - VSCode
      - QuestDB
@@ -30,7 +30,7 @@
      - JupyterHub  API Token
      - Dedicated GPU
 
- - AI Agent Farm  2T/5
+ - AI Agent Farm  **2T/5**  Flexible
    - Distributed AI Computing
 
 
