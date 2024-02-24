@@ -9,7 +9,7 @@
      - Grafana
      - Nginx 
   
-   - connection
+   - Remote connection
      - JupyterHub
      - Dedicated GPU
 
@@ -25,6 +25,10 @@
      - AI Agent -> VSCode
      - AI Agent -> QuestDB
      - AI Agent -> Grafana
+     - Grafana  -> QuestDB
+   - Remote connection
+     - JupyterHub
+     - Dedicated GPU
 
  - AI Agent Farm  2T/5
    - Distributed AI Computing
