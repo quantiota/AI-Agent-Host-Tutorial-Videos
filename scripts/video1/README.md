@@ -2,11 +2,17 @@
 
  ## Time duration T
 
- - AI Agent Host  1T/4
+ - AI Agent Host  2T/5
+   - VSCode
+   - QuestDB
+   - Grafana
+   - Nginx 
 
- - AI Agent Lab   1T/4
+ - AI Agent Lab   1T/5
+   - AI Agent 
 
- - AI Agent Farm  2T/4
+ - AI Agent Farm  2T/5
+  - Distributed AI Computing
 
 
 ## Images
