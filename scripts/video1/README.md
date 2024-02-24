@@ -11,10 +11,20 @@
   
    - connection
      - JupyterHub
-     - GPU
+     - Dedicated GPU
 
  - AI Agent Lab   1T/5
-   - AI Agent 
+   - Environment
+     - VSCode
+     - QuestDB
+     - Grafana
+     - Nginx
+     - AI Agent 
+
+   - Connection
+     - AI Agent -> VSCode
+     - AI Agent -> QuestDB
+     - AI Agent -> Grafana
 
  - AI Agent Farm  2T/5
    - Distributed AI Computing
