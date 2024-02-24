@@ -12,6 +12,9 @@
    - Remote connection for Computational Offloading
      - JupyterHub : Python, Julia, R.   API Token
      - Dedicated GPU  Tesla K80 16 nodes, P100 8 nodes, V100  8 nodes
+  
+   - Docker Host Monitoring
+     - NodeExporter 
 
  - AI Agent Lab   **1T/5** Flexible
    - Containers
@@ -31,9 +34,22 @@
    - Remote connection for Computational Offloading
      - JupyterHub : Python, Julia, R.   API Token
      - Dedicated GPU   Tesla K80 16 nodes, P100 8 nodes, V100 8 nodes
+    
+    - Docker Host Monitoring
+      - NodeExporter 
 
  - AI Agent Farm  **2T/5**  Flexible
+
    - Distributed AI Computing
+
+     - Microservers
+     - GPU Serveur  JupytherHub: Python, Julia, R, AI Applications
+
+   - Monitoring Server
+     - Prometheus
+
+   - Administration
+     - RMS Remote Managment System
 
 
 ## Images
