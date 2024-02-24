@@ -3,15 +3,15 @@
  ## Time duration T
 
  - AI Agent Host  2T/5
-  - Environment
-    - VSCode
-    - QuestDB
-    - Grafana
-    - Nginx 
+   - Environment
+     - VSCode
+     - QuestDB
+     - Grafana
+     - Nginx 
   
-  - connection
-    - JupyterHub
-    - GPU
+   - connection
+     - JupyterHub
+     - GPU
 
  - AI Agent Lab   1T/5
    - AI Agent 
