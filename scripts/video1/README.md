@@ -49,6 +49,9 @@
      - Microservers
      - GPU Serveur  AI Applications, JupytherHub: Python, Julia, R
 
+     - Connection
+       - AI Application ->  AI Agents  API
+
    - Monitoring Server
      - Prometheus
 
