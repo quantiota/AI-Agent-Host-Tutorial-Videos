@@ -22,10 +22,12 @@
      - AI Agent 
 
    - Connection
+     - AI Agent -> OpenAI   API 
      - AI Agent -> VSCode   API
      - AI Agent -> QuestDB  API
      - AI Agent -> Grafana  API
      - Grafana  -> QuestDB  Native
+ 
    - Remote connection
      - JupyterHub  API Token
      - Dedicated GPU
