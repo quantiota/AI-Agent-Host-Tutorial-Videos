@@ -11,7 +11,7 @@
   
    - Remote connection
      - JupyterHub : Python, Julia, R.   API Token
-     - Dedicated GPU  Tesla K80, P100, V100
+     - Dedicated GPU  Tesla K80 16 nodes, P100 8 nodes, V100  8 nodes
 
  - AI Agent Lab   **1T/5** Flexible
    - Environment
@@ -30,7 +30,7 @@
  
    - Remote connection
      - JupyterHub : Python, Julia, R.   API Token
-     - Dedicated GPU   Tesla K80, P100, V100
+     - Dedicated GPU   Tesla K80 16 nodes, P100 8 nodes, V100 8 nodes
 
  - AI Agent Farm  **2T/5**  Flexible
    - Distributed AI Computing
