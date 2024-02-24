@@ -10,7 +10,7 @@
      - Nginx 
   
    - Remote connection
-     - JupyterHub
+     - JupyterHub   API Token
      - Dedicated GPU
 
  - AI Agent Lab   1T/5
@@ -22,12 +22,12 @@
      - AI Agent 
 
    - Connection
-     - AI Agent -> VSCode
-     - AI Agent -> QuestDB
-     - AI Agent -> Grafana
-     - Grafana  -> QuestDB
+     - AI Agent -> VSCode   API
+     - AI Agent -> QuestDB  API
+     - AI Agent -> Grafana  API
+     - Grafana  -> QuestDB  Native
    - Remote connection
-     - JupyterHub
+     - JupyterHub  API Token
      - Dedicated GPU
 
  - AI Agent Farm  2T/5
