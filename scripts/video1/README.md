@@ -26,8 +26,8 @@
 
    - Connection
      - AI Agent -> OpenAI   API 
-     - AI Agent -> VSCode   API
-     - AI Agent -> QuestDB  API
+     - AI Agent -> VSCode   HTTPS
+     - AI Agent -> QuestDB  PostgreSQL/REST HTTP API
      - AI Agent -> Grafana  API
      - Grafana  -> QuestDB  Native
  
@@ -43,7 +43,7 @@
    - Distributed AI Computing
 
      - Microservers
-     - GPU Serveur  JupytherHub: Python, Julia, R, AI Applications
+     - GPU Serveur  AI Applications, JupytherHub: Python, Julia, R
 
    - Monitoring Server
      - Prometheus
