@@ -9,7 +9,7 @@
      - Grafana
      - Nginx 
   
-   - Remote connection
+   - Remote connection for Computational Offloading
      - JupyterHub : Python, Julia, R.   API Token
      - Dedicated GPU  Tesla K80 16 nodes, P100 8 nodes, V100  8 nodes
 
@@ -28,7 +28,7 @@
      - AI Agent -> Grafana  API
      - Grafana  -> QuestDB  Native
  
-   - Remote connection
+   - Remote connection for Computational Offloading
      - JupyterHub : Python, Julia, R.   API Token
      - Dedicated GPU   Tesla K80 16 nodes, P100 8 nodes, V100 8 nodes
 
