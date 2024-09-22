@@ -19,14 +19,14 @@ You will contribute to the development and deployment of the AI Agent platforms 
 
 ### **Preferred Skills:**
 - **DevOps** experience, including working with Docker, Kubernetes, cloud platforms, and CI/CD pipelines.
-- Familiarity with tools like **Grafana, QuestDB,** and **Code Server**.
+- Familiarity with tools like **Grafana, QuestDB, Nginx** and **Code Server**.
 - **Video production** skills: experience in video editing software (e.g., Adobe Premiere, Final Cut, Camtasia) for creating tutorial videos.
 - **3D animation** skills: ability to create **3D animations** (using software such as Blender, Maya, or similar) for the **overview video**.
 - Strong communication skills to explain complex technical topics in a simple and engaging way.
 
 ### **Internship Details:**
 - **Position**: Remote Intern (DevOps with Video Production and 3D Animation)
-- **Stipend**: ₹10,000 per month
+- **Stipend**:  ... per month
 - **Start Date**: October 1, 2024
 - **Duration**: 3 months, with the potential for extension based on performance
 - **Work Mode**: Remote
