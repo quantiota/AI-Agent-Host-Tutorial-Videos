@@ -1,4 +1,4 @@
-## **Internship Opportunity: DevOps Intern with Video Production and 3D Animation Skills**
+## **DevOps Intern with Video Production and 3D Animation Skills**
 
 ### **Job Description:**
 
