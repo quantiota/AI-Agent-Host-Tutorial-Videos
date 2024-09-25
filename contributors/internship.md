@@ -1,35 +1,33 @@
-## **DevOps Intern with Video Production and 3D Animation Skills**
+## **Video Production and 3D Animation Intern**
 
-### **Job Description:**
+### **Description:**
 
-We are looking for a talented **DevOps intern** with strong skills in **video production** and **3D animation** to join our team at **QUANTIOTA**. This role involves both **technical DevOps work** and **creating tutorial videos**, including a **3D animated overview** of the AI Agent ecosystem, as well as instructional videos for installation and usage.
+QUANTIOTA is seeking a creative **Video Production and 3D Animation Intern** to join our team. This role involves producing high-quality tutorial videos and a 3D animated overview to visually explain complex concepts related to our AI Agent platforms. The videos will cover technical tutorials, providing users with step-by-step instructions for installing and using our AI Agent Host, Lab, and Farm.
 
-You will contribute to the development and deployment of the AI Agent platforms while simultaneously producing tutorial videos that visually explain complex concepts using 3D animations and guide users through the installation process.
+The ideal candidate will have a strong foundation in video editing and 3D animation, as well as basic knowledge of DevOps operations to understand the context of the tutorials. You will work closely with our development team to create engaging and informative content.
 
 ### **Your Role:**
-- Assist with **DevOps tasks** related to the deployment and management of the **AI Agent Host, AI Agent Lab,** and **AI Agent Farm**.
 - **Create a 3D animated overview video** for the AI Agent ecosystem:
-  1. Overview of the AI Agent Host, Lab, and Farm
-     - Use 3D animation to visually explain the architecture and relationship between the AI Agent Host, AI Agent Lab, and AI Agent Farm.
-- **Produce instructional videos** for installation and usage:
+  1. Showcase the architecture and relationship between the **AI Agent Host, Lab,** and **Farm** using 3D animation.
+- **Produce instructional videos** for:
   1. Installing and using the AI Agent Host
-  2. Using the AI Agent Lab with tools like Code Server, QuestDB, and Grafana
+  2. Navigating the AI Agent Lab and its tools (Code Server, QuestDB, Grafana)
   3. Utilizing the AI Agent Farm for large-scale AI workloads
-- Collaborate with the development team to ensure accurate and informative video content that aligns with the platform’s technical features.
+- Collaborate with the team to ensure the video content is accurate and effectively communicates key technical features.
 
 ### **Preferred Skills:**
-- **DevOps** experience, including working with Docker, Kubernetes, cloud platforms, and CI/CD pipelines.
-- Familiarity with tools like **Grafana, QuestDB, Nginx** and **Code Server**.
-- **Video production** skills: experience in video editing software (e.g., Adobe Premiere, Final Cut, Camtasia) for creating tutorial videos.
-- **3D animation** skills: ability to create **3D animations** (using software such as Blender, Maya, or similar) for the **overview video**.
-- Strong communication skills to explain complex technical topics in a simple and engaging way.
-
+- Strong **video production** skills, with experience in tools like Adobe Premiere, Final Cut, or Camtasia.
+- Expertise in **3D animation** using software such as **Blender**, **Maya**, or similar platforms.
+- Basic knowledge as a user of **DevOps operations**, such as understanding Docker, cloud platforms, and CI/CD processes (no advanced DevOps skills required).
+- Ability to explain technical topics clearly and visually.
+- A creative mindset to make tutorials engaging and easy to follow.
+  
 ### **Internship Details:**
-- **Position**: Remote Intern (DevOps with Video Production and 3D Animation)
-- **Stipend**:  ... per month
+- **Position**: Remote Intern (Video Production and 3D Animation)
+- **Stipend**: … per month
 - **Start Date**: October 1, 2024
 - **Duration**: 3 months, with the potential for extension based on performance
 - **Work Mode**: Remote
 
 ### **How to Apply:**
-Submit your application along with examples of your DevOps projects, as well as any previous **video tutorials** and **3D animations** you’ve created. We are looking for someone who can combine technical expertise with creative video production and 3D animation skills.
+Submit your application along with examples of previous **video tutorials** and **3D animations** you’ve created. We are looking for a creative intern who can produce top-quality video content to support our AI Agent ecosystem.
