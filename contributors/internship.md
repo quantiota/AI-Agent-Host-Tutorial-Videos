@@ -18,7 +18,7 @@ The ideal candidate will have a strong foundation in video editing and 3D animat
 ### **Preferred Skills:**
 - Strong **video production** skills, with experience in tools like Adobe Premiere, Final Cut, or Camtasia.
 - Expertise in **3D animation** using software such as **Blender**, **Maya**, or similar platforms.
-- Basic knowledge as a user of **DevOps operations**, such as understanding Docker, cloud platforms, and CI/CD processes (no advanced DevOps skills required).
+- Basic knowledge as a user of **DevOps operations**, such as understanding Docker, Docker compose, QuestDB, Grafana and VSCode (no advanced DevOps skills required).
 - Ability to explain technical topics clearly and visually.
 - A creative mindset to make tutorials engaging and easy to follow.
   
