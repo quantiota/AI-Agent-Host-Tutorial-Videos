@@ -64,6 +64,11 @@
 - ai-agent-host-diagram.png
 - ai-agent-lab-diagram.png
 - ai-agent-farm-diagram.png
+
+
+## Template
+
+- raspberry-pi-5-video-1080p.mp4
   
 ## Logo
 
